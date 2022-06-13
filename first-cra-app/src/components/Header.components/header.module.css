@@ -1,0 +1,25 @@
+.rod_block {
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    margin: auto;
+}
+.IMG {
+    width: 169px;
+    height: 52px;
+}
+
+.IMG img {
+    width: 100%;
+}
+
+.ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+.li {
+    display: flex;
+    justify-content: space-between;
+}

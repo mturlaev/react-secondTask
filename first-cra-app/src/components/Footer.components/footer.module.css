@@ -1,0 +1,28 @@
+.footer {
+    display: flex;
+    margin-top: 10%;
+    width: 100%;
+}
+.logo {
+    display: flex;
+    width: 50%;
+    margin-left: 20%;
+}
+.ul_foot {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 50%
+}
+.intocode {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lishka {
+    color: rgba(0, 0, 0, 0.5);
+}
+.intocode {
+    color: rgba(0, 0, 0, 0.5);
+}
